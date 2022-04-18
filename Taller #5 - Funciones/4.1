@@ -1,0 +1,19 @@
+SubProceso Posicion(indice,vector)
+	Escribir "Ingrese un número por favor";
+	Leer vector[indice];
+FinSubProceso
+
+SubProceso Lista(indice,vector)
+	Escribir "[",indice,"]"," = ",vector[indice];
+FinSubProceso 
+
+Proceso sin_titulo
+	Definir vector Como Entero; Dimension vector[5];
+	Definir indice Como Entero;
+	Para indice <- 0 Hasta 4 Con Paso 1 Hacer
+		Posicion(indice,vector);
+	FinPara
+	Para indice <- 0 Hasta 4 Con Paso 1 Hacer
+		Lista(indice,vector);
+	FinPara
+FinProceso
