@@ -1,6 +1,6 @@
-Realizar la siguiente figura por medio del ciclo Para
-![image](https://user-images.githubusercontent.com/93689558/173409319-fcb37d28-469f-48c4-98dd-78767b6f4e5d.png)
+1. Realizar la siguiente figura por medio del ciclo Para
 
+![image](https://user-images.githubusercontent.com/93689558/173409319-fcb37d28-469f-48c4-98dd-78767b6f4e5d.png)
 
 Realizar la siguiente figura por medio del ciclo Mientras - Hacer
 
