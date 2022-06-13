@@ -15,15 +15,21 @@ Números impares: 1, 3, 5, 7, 9
 4. Dada la siguiente matriz bidimensional, el cual debe de quemar en el código
 
 01 02 03 04 05
+
 06 07 08 09 10
+
 11 12 13 14 15
+
 16 17 18 19 20
 
 Utilizando el conocimiento adquirido, a excepción de hacerlo de forma manual, imprima la siguiente matriz bidimensional.
 
 01 02 03 04 05
+
 10 09 08 07 06
+
 11 12 13 14 15
+
 20 19 18 17 16
 
 5. Se debe de imprimir el siguiente cuadro
